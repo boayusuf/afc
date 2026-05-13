@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+.streamlit/secrets.toml
+*.log
+
+# Local data — DB plus offline benchmark CSV (size + copyright)
+data/
+data/cn_dataset_5469.csv
