@@ -1,4 +1,4 @@
-# AFC × Community Notes — Live Demo
+# AFC × Community Notes
 
 Interactive demonstrator for the dissertation *Benchmarking Automated Fact-Checking Pipelines Against X Community Notes* (Yusuf Shakir, UWL, 2026).
 
